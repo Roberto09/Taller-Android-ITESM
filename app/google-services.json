@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "145508828950",
+    "firebase_url": "https://messengerapptaller.firebaseio.com",
+    "project_id": "messengerapptaller",
+    "storage_bucket": "messengerapptaller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145508828950:android:301e13a80d29c056",
+        "android_client_info": {
+          "package_name": "roberto.app.messengertallerdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145508828950-s4a6jdmer57kvtb6tif0acpnhpbcnm07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq_z9Ph1ZbZQysOWCXZsN2Jb-OipvVe7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
